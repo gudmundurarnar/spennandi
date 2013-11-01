@@ -25,7 +25,10 @@ int main(array<System::String ^> ^args)
 	Console::WriteLine(L"Ur c temp dev");
 
 
-	Console::WriteLine(L"Clonaði frá github. master");
+	Console::WriteLine(L"Gert í Arnar branch auka lina");
+
+	Console::WriteLine(L"Clonaði frá dev master");
+	Console::WriteLine(L"Gert í Arnar Branch");
 
 
 	PingingClass cl;
