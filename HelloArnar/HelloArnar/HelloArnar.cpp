@@ -25,6 +25,9 @@ int main(array<System::String ^> ^args)
 	Console::WriteLine(L"Ur c temp dev");
 
 
+	Console::WriteLine(L"Clonaði frá github. master");
+
+
 	PingingClass cl;
 
 	cl.doPing();
