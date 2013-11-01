@@ -22,6 +22,8 @@ int main(array<System::String ^> ^args)
 
 	Console::WriteLine(L"Now what");
 
+	Console::WriteLine(L"Ur c temp dev");
+
 
 	PingingClass cl;
 
